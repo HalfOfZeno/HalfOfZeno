@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hello! Just started trying to learn how to code, seems kinda fun. 
 
 - 🔭 I’m currently working on ...
